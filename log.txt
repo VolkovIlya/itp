@@ -1,0 +1,42 @@
+commit ce20fa3575db0a91ae6e0f81d8b95d64b430d3e2
+Merge: a77be29 e8920e2
+Author: VolkovIlya <volkovilya064@gmail.com>
+Date:   Tue Oct 4 23:20:31 2022 +0300
+
+    Merge branch 'dev' into main
+
+commit a77be29729b9da723563fa2e259e862b6c2d610e
+Author: VolkovIlya <volkovilya064@gmail.com>
+Date:   Tue Oct 4 23:13:43 2022 +0300
+
+    HW has been modified
+
+commit e8920e20ab932f28f946357d3f3d23c4166623a6
+Author: VolkovIlya <volkovilya064@gmail.com>
+Date:   Tue Oct 4 23:08:25 2022 +0300
+
+    HW has been modified
+
+commit d02af559b9f1a5c8ccf6415c16b4258f3c471f47
+Author: VolkovIlya <volkovilya064@gmail.com>
+Date:   Tue Oct 4 22:45:46 2022 +0300
+
+    Add GW and rename HW-Mood
+
+commit 8537a9d15bd8af51e64acd9efe08dab1c2f4ced7
+Author: VolkovIlya <volkovilya064@gmail.com>
+Date:   Tue Oct 4 21:57:33 2022 +0300
+
+    Code change HW.py
+
+commit 007561b0a3489336bb6a7f5355ad91df90369d9d
+Author: VolkovIlya <volkovilya064@gmail.com>
+Date:   Tue Oct 4 21:45:43 2022 +0300
+
+    Add python file
+
+commit b056f4a812bc90abdcb4f6f678c2dbe7f4d39cb0
+Author: VolkovIlya <90318891+VolkovIlya@users.noreply.github.com>
+Date:   Tue Oct 4 21:35:46 2022 +0300
+
+    Initial commit
